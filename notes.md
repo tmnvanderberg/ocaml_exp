@@ -62,4 +62,7 @@ is equivalent to
 ``` 
 5 |>inc |> square
 ```
-## polymorphism
+# debugging
+- print statements
+- function traces: #trace fun
+
